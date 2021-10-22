@@ -7,11 +7,11 @@
 ### Tensorflow
 ### Problem Solving
 
-# Languages
+# Languages:
 ### English - Native
 ### Russian - Native
 ### Ukranian - Intermediate
 ### Japanese - Currently Studying
 
-# Currently Working On
+# Currently Working On:
 ### My Website
