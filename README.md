@@ -11,7 +11,6 @@
 ### English - Native
 ### Russian - Native
 ### Ukranian - Intermediate
-### Japanese - Currently Studying
 
 # Currently Working On:
 ### My Website
