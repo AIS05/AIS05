@@ -5,7 +5,9 @@
 ### Python
 ### Pytorch
 ### Tensorflow
-### Problem Solving
+### HTML, CSS, SCSS
+### React JS
+### JS & TypeScript
 
 # Languages:
 ### English - Native
